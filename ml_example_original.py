@@ -27,3 +27,6 @@ accuracy = accuracy_score(y_test, y_pred)
 # Print the accuracy
 print ('Accuracy: ', accuracy*100)
 
+
+# Print the accuracy
+print ('F1score:', accuracy*200)
